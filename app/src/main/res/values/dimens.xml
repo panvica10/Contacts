@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_title_text_size">10sp</dimen>
+    <dimen name="f_home_search_view_margin">8dp</dimen>
+    <dimen name="contact_item_icon_dimens">25dp</dimen>
+    <dimen name="contact_item_text_size">18sp</dimen>
+    <dimen name="contact_item_ic_padding">10dp</dimen>
+    <dimen name="contact_item_letter_text_size">25sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="home_header_height">230dp</dimen>
+    <dimen name="detail_profile_picture">140dp</dimen>
+</resources>
