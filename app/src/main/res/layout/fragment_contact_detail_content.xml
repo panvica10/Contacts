@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/detail_item_telephone"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginStart="@dimen/margin_10"
+            android:drawableLeft="@drawable/ic_telephone_24"
+            android:drawablePadding="@dimen/contact_item_ic_padding"
+            android:drawableStart="@drawable/ic_telephone_24"
+            android:gravity="center"
+            android:textSize="@dimen/contact_item_text_size" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/detail_item_email"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginStart="@dimen/margin_10"
+            android:drawableLeft="@drawable/ic_email_24"
+            android:drawablePadding="@dimen/contact_item_ic_padding"
+            android:drawableStart="@drawable/ic_email_24"
+            android:gravity="center"
+            android:textSize="@dimen/contact_item_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/detail_item_birthday"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginStart="@dimen/margin_10"
+            android:drawableLeft="@drawable/ic_brithday_24"
+            android:drawablePadding="@dimen/contact_item_ic_padding"
+            android:drawableStart="@drawable/ic_brithday_24"
+            android:gravity="center"
+            android:textSize="@dimen/contact_item_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/detail_item_gender"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginStart="@dimen/margin_10"
+            android:drawableLeft="@drawable/ic_gender_24"
+            android:drawablePadding="@dimen/contact_item_ic_padding"
+            android:drawableStart="@drawable/ic_gender_24"
+            android:gravity="center"
+            android:textSize="@dimen/contact_item_text_size" />
+    </LinearLayout>
+
+
+</LinearLayout>

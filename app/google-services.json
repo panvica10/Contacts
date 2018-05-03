@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999871388582",
+    "firebase_url": "https://contacts-c7b4c.firebaseio.com",
+    "project_id": "contacts-c7b4c",
+    "storage_bucket": "contacts-c7b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999871388582:android:30e8ccc9f15d8da0",
+        "android_client_info": {
+          "package_name": "jackyman.sk.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999871388582-5i64nnjflfe6jgg3641c61tho79f5or5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jackyman.sk.contacts",
+            "certificate_hash": "968698d1fca9ae501b057b6eba2d4490fb019e50"
+          }
+        },
+        {
+          "client_id": "999871388582-7adn6ptfbdloth95r4chqim5con63vou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUhQxHF2mi0J0UHy0Vet2arXi7YGkCOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999871388582-7adn6ptfbdloth95r4chqim5con63vou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

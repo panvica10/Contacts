@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="toolbar_add_contact_txt">Add Contact</string>
+    <string name="contact_item_name_surname_string">%1$s %2$s</string>
+    <string name="delete">delete</string>
+    <string name="f_add_first_name_hint">First name</string>
+    <string name="f_add_last_name_hint">Last name</string>
+    <string name="f_add_phone_number_hint">Phone number</string>
+    <string name="f_add_email_hint">Email</string>
+    <string name="f_add_date_of_brith_hint">Date of birth</string>
+    <string name="f_add_gender_hint">Gender</string>
+    <string name="f_add_button_text">Save</string>
+    <string name="add_contact_toolbat_text">Add Contact</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="home_fragment_toolbar_text">All Contacts</string>
+    <string name="contact_detail_toolbar_text">Contact Detail</string>
+    <string name="add_contact_gallery_text">Choose from Gallery</string>
+    <string name="add_contact_take_photo_text">Take Photo</string>
+    <string name="add_contact_image_dialog_title">Add Photo!</string>
+    <string name="add_contact_dialog_cancel">Cancel</string>
+    <string name="alert_no_connection_text">No available connection!</string>
+
+
+    <array name="gender_array">
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+    </array>
+</resources>
